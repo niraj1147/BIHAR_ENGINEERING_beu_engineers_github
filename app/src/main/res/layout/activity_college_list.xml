@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/button_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/muzaffarpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MIT Muzaffarpur" />
+
+            <Button
+                android:id="@+id/bhagalpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BCE Bhagalpur" />
+
+            <Button
+                android:id="@+id/gaya"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GCE Gaya" />
+
+            <Button
+                android:id="@+id/nalanda"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="NCE Nalanda" />
+
+            <Button
+                android:id="@+id/darbhanga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DCE Darbhanga" />
+
+            <Button
+                android:id="@+id/motihari"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MCE Motihari" />
+
+            <Button
+                android:id="@+id/chhapra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="LNJPIT Chhapra" />
+
+
+
+            <Button
+                android:id="@+id/bakhtiyarpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BCE Bakhtiyarpur" />
+
+            <Button
+                android:id="@+id/sasaram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SEC Sasaram" />
+
+            <Button
+                android:id="@+id/sitamarhi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SIT Sitamarhi" />
+
+            <Button
+                android:id="@+id/madhepura"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BP Mandal Madhepura" />
+
+            <Button
+                android:id="@+id/katihar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="KEC Katihar" />
+
+            <Button
+                android:id="@+id/supaul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SCE Supaul" />
+
+            <Button
+                android:id="@+id/purnea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PCE Purnea" />
+
+            <Button
+                android:id="@+id/saharsa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SCE Saharsa" />
+
+            <Button
+                android:id="@+id/jamui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Jamui" />
+
+            <Button
+                android:id="@+id/banka"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Banka" />
+
+            <Button
+                android:id="@+id/vaishali"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Vaishali" />
+
+            <Button
+                android:id="@+id/nawada"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Nawada" />
+
+            <Button
+                android:id="@+id/kishanganj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Kishanganj" />
+
+            <Button
+                android:id="@+id/munger"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Munger" />
+
+            <Button
+                android:id="@+id/sheohar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Sheohar" />
+
+            <Button
+                android:id="@+id/westChamparan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC West Champaran" />
+
+            <Button
+                android:id="@+id/aurangabad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Aurangabad" />
+
+            <Button
+                android:id="@+id/kaimur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Kaimur" />
+
+            <Button
+                android:id="@+id/gopalganj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Gopalganj" />
+
+            <Button
+                android:id="@+id/madhubani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Madhubani" />
+
+            <Button
+                android:id="@+id/siwan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Siwan" />
+
+            <Button
+                android:id="@+id/jehanabad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Jehanabad" />
+
+            <Button
+                android:id="@+id/arwal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Arwal" />
+
+            <Button
+                android:id="@+id/samastipur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Samastipur" />
+
+            <Button
+                android:id="@+id/khagaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Khagaria" />
+
+            <Button
+                android:id="@+id/buxar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Buxar" />
+
+            <Button
+                android:id="@+id/bhojpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Bhojpur" />
+
+            <Button
+                android:id="@+id/sheikhpura"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Sheikhpura" />
+
+            <Button
+                android:id="@+id/lakhisarai"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GEC Lakhisarai" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+</LinearLayout>

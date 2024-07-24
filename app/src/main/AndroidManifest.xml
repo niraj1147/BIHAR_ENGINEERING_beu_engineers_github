@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BeuEngineers"
+        tools:targetApi="31">
+        <activity
+            android:name=".PrivacyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveloperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NewsFeedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Application.ApplicationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".collegepredictordata.rank.CollegePredictorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Placements.PlacementActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.SyllabusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.IeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.LtActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.ItActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.EeeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.MechanicalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.EeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.CivilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.EceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus.CseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Results.ResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pyq.PyqDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pyq.PyqActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CollegeList.CollegeListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Recyclernotes.DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Recyclernotes.NotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

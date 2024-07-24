@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866452030127",
+    "project_id": "beu-engineers-48bd7",
+    "storage_bucket": "beu-engineers-48bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866452030127:android:46969558ac9037ad4c0a5a",
+        "android_client_info": {
+          "package_name": "com.example.beuengineers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgGQXkjK08jZERxiGqDKu-M27f4AKoYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:layout_margin="7dp"
+            android:padding="7dp"
+            android:text="B Tech All Branches Syllabus">
+
+        </TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:padding="7dp"
+            android:src="@drawable/syllabus">
+
+        </ImageView>
+
+
+        <Button
+            android:id="@+id/cse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/computer_science_and_engineering" />
+
+        <Button
+            android:id="@+id/ce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/civil_engineering" />
+
+        <Button
+            android:id="@+id/me"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mechanical_engineering" />
+
+        <Button
+            android:id="@+id/ee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/electrical_engineering" />
+
+        <Button
+            android:id="@+id/ece"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/electronics_and_communication_engineering" />
+
+        <Button
+            android:id="@+id/it"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/information_technology" />
+
+        <Button
+            android:id="@+id/lt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/leather_technology" />
+
+        <Button
+            android:id="@+id/eee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/electrical_and_electronics_engineering" />
+
+        <Button
+            android:id="@+id/ie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/instrumentation_engineer" />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

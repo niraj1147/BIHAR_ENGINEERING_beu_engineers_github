@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Beu Engineers</string>
+    <string name="college_predictor">College Predictor</string>
+    <string name="placement">Placement</string>
+    <string name="cut_off">Cut-Off</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="question_paper">Question Paper</string>
+    <string name="learn_coding">Learn Coding</string>
+    <string name="notes">Notes</string>
+    <string name="result">Result</string>
+    <string name="jobs">Jobs</string>
+    <string name="news_feed">News Feed</string>
+    <string name="nptel">NPTEL</string>
+    <string name="scholarship">Scholarship</string>
+    <string name="top_college">Top College</string>
+    <string name="computer_science_and_engineering">Computer Science and Engineering</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="mechanical_engineering">Mechanical Engineering</string>
+    <string name="electrical_engineering">Electrical Engineering</string>
+    <string name="electronics_and_communication_engineering">Electronics and Communication Engineering</string>
+    <string name="information_technology">Information Technology</string>
+    <string name="leather_technology">Leather Technology</string>
+    <string name="electrical_and_electronics_engineering">Electrical and Electronics Engineering</string>
+    <string name="instrumentation_engineer">Instrumentation Engineer</string>
+
+
+    <string-array name="college_names">
+
+
+        <item> MIT Muzaffarpur </item>
+        <item> BCE Bhagalpur </item>
+        <item> GCE Gaya </item>
+        <item> NCE Nalanda </item>
+        <item>DCE Darbhanga </item>
+        <item>MCE Motihari </item>
+        <item> LNJPIT Chhapra </item>
+        <item> BCE Bakhtiyarpur </item>
+        <item> SEC Sasaram </item>
+        <item> SIT Sitamarhi </item>
+        <item> BP Mandal Madhepura </item>
+        <item> KEC Katihar </item>
+        <item> SCE Supaul </item>
+        <item> PCE Purnea </item>
+        <item> SCE Saharsa  </item>
+        <item> GEC Jamui </item>
+        <item> GEC Banka </item>
+        <item> GEC VAISHALI </item>
+        <item> GEC Nawada </item>
+        <item> GEC Kishanganj </item>
+        <item> GEC Munger </item>
+        <item> GEC Sheohar </item>
+        <item> GEC West Champaran </item>
+        <item> GEC Aurangabad </item>
+        <item> GEC Kaimur </item>
+        <item> GEC Gopalganj </item>
+        <item> GEC Madhubani </item>
+        <item> GEC Siwan </item>
+        <item> GEC Jehanabad </item>
+        <item> GEC Arwal </item>
+        <item> GEC Samastipur </item>
+        <item> GEC Khagaria </item>
+        <item> GEC Buxar </item>
+        <item> GEC Bhojpur </item>
+        <item> GEC Sheikhpura </item>
+        <item> GEC Lakhisarai </item>
+
+
+    </string-array>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="rohitghate10431_gmail_com">rohitghate10431@gmail.com</string>
+    <string name="facebook_page">Follow on Facebook</string>
+    <string name="communication">Communication</string>
+    <string name="nav_rate">Rate or Feedback</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_linkden">Connect to LinkedIn </string>
+    <string name="nav_whatsapp">Join WhatsApp </string>
+    <string name="nav_telegram">Join Telegram </string>
+    <string name="nav_privacy_policy">Privacy Policy</string>
+
+    <string name="devloper">Developer</string>
+    <string name="more">More</string>
+
+
+</resources>
